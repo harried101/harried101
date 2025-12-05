@@ -71,8 +71,8 @@
 
 ## 📫 How to Reach Me
 
-- 💌 Email: <!-- Add your preferred email here -->
-- 💼 LinkedIn: <!-- Add your LinkedIn profile link here -->
+- 💌 Email: harriediskandar@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/harried101
 - 🐙 GitHub: [@harried101](https://github.com/harried101)
 
 ---
