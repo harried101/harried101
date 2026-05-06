@@ -79,4 +79,4 @@
 ## ⚡ Fun Facts
 
 - I enjoy **balancing code, campus life, and student leadership**.
-- I like turning **small ideas** (like a simple form or booking system) into something p
+- I like turning **small ideas** into something p
