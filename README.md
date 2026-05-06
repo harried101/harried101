@@ -73,7 +73,6 @@
 
 - 💌 Email: harriediskandar@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/harried101
-- 🐙 GitHub: [@harried101](https://github.com/harried101)
 
 ---
 
